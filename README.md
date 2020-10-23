@@ -13,7 +13,7 @@ The app is capable of providing common statistics of the text file like no. of w
 It will also show a histogram of the most frequently used words in the text.
 Given a file of keywords, it can also retrieve sentences containing those.
 
- This is README. For more related docs, see the wiki page of this project.
+ This is README. For more related docs, see the [wiki](https://github.com/Ruchika06/LAP_Lab3/wiki) page of this project.
 
 **Requirements**
 Python 3,
@@ -25,9 +25,7 @@ matplotlib
 
 1) Clone this repo using git clone --- 
 2) Go to the folder LAP_Lab3 where you have clone the repo.
-3) Open terminal and execute python main.py 
-
-### How to use?
+3) Open terminal and execute main.py 
 
 
 
