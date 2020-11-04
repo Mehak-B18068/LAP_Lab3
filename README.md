@@ -13,6 +13,9 @@ The app is capable of providing common statistics of a text file like no. of wor
 It also plots a histogram of the 20 most frequently used words in the text file.
 Given a file of keywords, it can also retrieve sentences containing those keywords.
 
+
+## Documentation
+
  This is the README. For more documentation, see the [wiki](https://github.com/Ruchika06/LAP_Lab3/wiki) page of this project.
 
 ### **Requirements**
@@ -23,10 +26,33 @@ Given a file of keywords, it can also retrieve sentences containing those keywor
 
 ### **How to run?**
 
-1) Clone the repo.
-2) Go inside the LAP_Lab3 folder.
-3) Install required packages using pip.
-3) Execute main.py
+## Local Setup Guide
+
+1. Install Tkinter, PysimpleGUI, Matplotlib
+```
+sudo apt-get install python3-tk
+
+sudo apt-get install PySimpleGUI
+
+sudo apt-get install matplotlib
+
+sudo apt-get install nltk
+
+```
+2. Clone this repository
+```
+git clone https://github.com/Ruchika06/LAP_Lab3.git
+```
+3. Go inside the main directory and install requirements 
+```
+cd LAP_Lab3
+pip3 install -r requirements.txt
+```
+4. Run application
+```
+python3 main.py
+```
+
 
 
 
